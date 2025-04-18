@@ -1,0 +1,6 @@
+{
+  "build":{ "dockerfile": "Doom.dockerfile" },
+  "name": "Doom",
+  "features": {
+  }
+}
